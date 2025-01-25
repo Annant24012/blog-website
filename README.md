@@ -76,6 +76,11 @@ Ensure you have the following installed:
    yarn dev
    ```
 
+### Screenshots
+
+<img src="./public/png1.png">
+<img src="./public/png2.png">
+
 ### Available Scripts
 
 - `npm run dev`: Starts the development server.
